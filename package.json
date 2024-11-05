@@ -1,5 +1,6 @@
 {
   "name": "test-github-actions",
+  "homepage": "https://dmovskidv.github.io/test-github-actions/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
