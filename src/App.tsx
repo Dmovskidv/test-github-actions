@@ -5,9 +5,9 @@ const App = () => {
   return (
     <div>
       <nav>
-        <Link to="/vite-react-router/">Home</Link>
+        <Link to="/test-github-actions/">Home</Link>
         {" | "}
-        <Link to="/vite-react-router/contact">Contact</Link>
+        <Link to="/test-github-actions/contact">Contact</Link>
       </nav>
 
       <Outlet />

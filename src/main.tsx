@@ -7,15 +7,15 @@ import Home from "./pages/Home";
 
 const router = createBrowserRouter([
   {
-    path: "/vite-react-router/",
+    path: "/test-github-actions/",
     element: <App />,
     children: [
       {
-        path: "/vite-react-router/",
+        path: "/test-github-actions/",
         element: <Home />,
       },
       {
-        path: "/vite-react-router/contact",
+        path: "/test-github-actions/contact",
         element: <Contact />,
       },
     ],
